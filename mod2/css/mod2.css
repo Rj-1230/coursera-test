@@ -12,11 +12,14 @@
     text-align:center;
 }
 
+.same{
+    font-size:17px;
+    font-family:Arial;
+}
 .all{
     background-color:lightgray;
     border:3px solid black;
     padding:0px 10px 10px 10px;
-
 }
 
 .ch{
